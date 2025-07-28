@@ -9,12 +9,10 @@ Welcome to **ML Diaries**! This repository is a comprehensive collection of majo
 - **Comprehensive Coverage**: Covers a wide range of topics, from foundational ML concepts to advanced techniques.
 - **Fun and Engaging**: Learning Machine Learning doesn't have to be boring! This repository makes it enjoyable and interactive.
 
-## Sections
+## Topics to cover
 
 ### 1. **Getting Started**
    - Introduction to Machine Learning
-   - Setting up your environment
-   - Tools and libraries used in this repository
 
 ### 2. **Foundational Concepts**
    - Linear Regression
@@ -59,7 +57,7 @@ Welcome to **ML Diaries**! This repository is a comprehensive collection of majo
    cd ml-diaries
    ```
 
-2. Explore the sections and dive into the code. Each section contains well-documented notebooks and scripts to guide you through the concepts.
+2. Explore these topics day by day by dive into the code. Each topic contains well-documented notebooks and scripts to guide you through the concepts.
 
 3. Run the examples and modify the code to experiment with different scenarios.
 
